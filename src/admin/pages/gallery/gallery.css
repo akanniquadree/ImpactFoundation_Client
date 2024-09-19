@@ -1,0 +1,9 @@
+.gallery{
+    flex: 4;
+}
+.gallery_header{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-top: 50px;
+}

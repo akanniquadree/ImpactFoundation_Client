@@ -1,0 +1,26 @@
+.sponsor{
+    flex:4;
+}
+.sponsor_header{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-top: 50px;
+}
+.button{
+    border: .1rem solid #808080;
+    padding: 1rem;
+    cursor: pointer;
+    border-radius: .5rem;
+}
+.button:hover{
+    border: .1rem solid #404040;
+    transform: translateY(-2px);
+}
+.button_space{
+    margin-top: 5px;
+    justify-content:flex-end;
+}
+.blog_list{
+    margin-top: 20px;
+}
